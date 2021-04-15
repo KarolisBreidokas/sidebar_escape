@@ -1,3 +1,7 @@
+---
+sidebar: auto
+---
+
 # Hello VuePress
 
 ## "test1"
